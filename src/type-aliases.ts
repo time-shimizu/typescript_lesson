@@ -18,6 +18,6 @@ type Profile = {
 const example2: Profile = {
   name: 'Ham',
   age: 43
-}
+};
 
 type Profile2 = typeof example1;
